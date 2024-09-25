@@ -1,0 +1,36 @@
+.primeira{
+    margin-left: 750px;
+    margin-right: 750px;
+    text-align: center;
+    background: rgb(12, 167, 175);
+    width: 500px;
+}
+.butao{
+    
+
+}
+button{
+    margin-bottom: 20px;
+    margin-left: 25px;
+    height: 50px;
+    width: 80px;
+}
+.externo{
+    background-color: gray;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 35px;
+}
+
+.paragrafo{
+word-spacing: 5px;
+letter-spacing: 0.5px;
+line-height: 25px;
+}
+
+.fotos{
+    height: 250px;
+    width: 500px;
+}
