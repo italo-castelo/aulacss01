@@ -1,0 +1,21 @@
+#conteiner{
+    width: 1920px;
+    height: 300px;
+    background-color: rgb(255, 187, 28);
+} 
+    .fonte{
+        color: red;
+
+    }
+
+    .titulo{
+        color: white;
+        margin-left: 500px;
+    }
+
+    .span1{
+        font-style: italic;
+    }
+    .span2{
+        font-weight: bold;
+    }
